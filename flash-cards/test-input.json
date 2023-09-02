@@ -1,0 +1,20 @@
+{
+  "flashCards": [
+    {
+      "word": "hello",
+      "tran": "hola"
+    },
+    {
+      "word": "goodbye",
+      "tran": "adios"
+    },
+    {
+      "word": "to eat",
+      "tran": "comer"
+    },
+    {
+      "word": "to sleep",
+      "tran": "not cassie"
+    }
+  ]
+}
